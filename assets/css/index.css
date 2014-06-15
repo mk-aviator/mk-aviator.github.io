@@ -1,0 +1,24 @@
+body {
+    background-image: url('../images/sky-back2.jpg');
+    background-repeat: repeat;
+    margin: 0 auto;
+    width: 40em;
+    font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    /*rtl:prepend:"Droid Arabic Kufi","Droid Sans", */
+    ;
+}
+#backgroundsHolder {
+    height: 15em;
+}
+#contentsHolder {
+    position: relative;
+    top: -15em;
+}
+#backgroundsHolder #descriptionBackground {
+    background-color: #FFFFFF;
+    opacity: 0.5;
+    margin-top: 1em;
+}
+#descriptionHolder ul li {
+    list-style: none;
+}

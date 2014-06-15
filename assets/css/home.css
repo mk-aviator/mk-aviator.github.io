@@ -1,0 +1,73 @@
+#backgroundsHolder #descriptionBackground.home {
+    height: 20em;
+}
+#descriptionHolder.home {
+    margin-top: 1em;
+    padding: 2em;
+    height: 2em;
+    line-height: 2em;
+    text-align: justify;
+}
+#backgroundsHolder #descriptionBackground.classes {
+    height: 44em;
+}
+#descriptionHolder.classes {
+    margin-top: 1em;
+    padding: 2em;
+    height: 29em;
+    line-height: 1.5em;
+    text-align: justify;
+}
+#backgroundsHolder #descriptionBackground.salientfeatures {
+    height: 38em;
+}
+#descriptionHolder.salientfeatures {
+    margin-top: 1em;
+    padding: 2em;
+    height: 20em;
+    line-height: 2em;
+    text-align: justify;
+}
+#backgroundsHolder #descriptionBackground.testimonials {
+    height: 35em;
+}
+#descriptionHolder.testimonials {
+    margin-top: 1.5em;
+    padding: 0em 1em;
+    height: 33em;
+    line-height: 2em;
+    text-align: justify;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+#backgroundsHolder #descriptionBackground.aboutus {
+    height: 20em;
+}
+#descriptionHolder.aboutus {
+    margin-top: 1em;
+    padding: 2em;
+    height: 2em;
+    line-height: 2em;
+    text-align: justify;
+}
+#backgroundsHolder #descriptionBackground.trackrecord {
+    height: 30em;
+}
+#descriptionHolder.trackrecord {
+    margin-top: 1.5em;
+    padding: 2em;
+    height: 25em;
+    line-height: 2em;
+    text-align: justify;
+    overflow-y: auto;
+}
+#backgroundsHolder #descriptionBackground.admissionform {
+    height: 71em;
+}
+#descriptionHolder.admissionform {
+    margin-top: 1em;
+    padding: 2em;
+    height: 56em;
+    line-height: 2em;
+    text-align: justify;
+}

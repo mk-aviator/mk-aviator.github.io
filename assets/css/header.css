@@ -1,0 +1,71 @@
+#backgroundsHolder #headerBackground {
+    background-color: #FFFFFF;
+    height: 8.8em;
+    opacity: 0.5;
+    margin-top: 1em;
+}
+#headerHolder {
+    height: 6em;
+}
+#headerHolder .logo {
+    background-image: url('../images/mk_logo.png');
+    background-repeat: no-repeat;
+    cursor: pointer;
+    width: 9em;
+    height: 5em;
+    padding: 0;
+    background-position: center;
+    margin-top: .4em;
+    background-size: 7em;
+    display: inline-block;
+}
+#headerHolder header {
+    width: 30em;
+    margin-top: 0.5em;
+}
+#headerHolder header .header {
+    margin: 0;
+}
+#headerHolder h1.header {
+    font-size: 2.5rem;
+    color: #002F5A;
+    margin-top: 0.5em;
+}
+#headerHolder h4.header {
+    float: right;
+    margin-right: 1em;
+}
+#footerHolder {
+    height: 1em;
+}
+#backgroundsHolder #footerBackground {
+    background-color: #FFFFFF;
+    height: 3em;
+    opacity: 0.7;
+    margin-top: 1em;
+    text-align: center;
+    line-height: 3em;
+}
+#headerHolder .socialNetworking {
+    margin-right: 1em;
+}
+#headerHolder .socialNetworking a {
+    text-decoration: none;
+    width: 1.5em;
+    display: inline-block;
+}
+#headerHolder .socialNetworking a i:HOVER {
+    opacity: 1;
+}
+#headerHolder .socialNetworking .facebook {
+    color: #3b5998;
+}
+#headerHolder .socialNetworking .google {
+    color: #dd4b39;
+}
+#headerHolder .socialNetworking .linkedin {
+    color: #007bb6;
+}
+#headerHolder .socialNetworking .twitter {
+    color: #00aced;
+}
